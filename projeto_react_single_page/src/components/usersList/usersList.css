@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    
+    
+
+}
+
+.container-user{
+    display: flex;
+    min-width: 850px;
+    width: 70%;
+    background-image: linear-gradient(#00a14d , #00c86f, #00c86ed5, #88f1c2d5 );
+    border-radius: 5px;
+    justify-content: space-between;
+    padding: 10px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+img {
+    border-radius:80px;
+
+
+}
+.perfil{
+    background: none;
+    display: flex;
+    padding: 10px;
+    margin-left: 5%;
+
+}
+.identificacao{
+    background: none; 
+    justify-content: space-between;
+    color: white;
+    font-weight: bold;
+    margin-left: 7%;
+
+
+}
+.nome{
+    background: none; 
+
+
+}
+.id-email{
+    background: none; 
+    width: 500%;
+
+}
+.containerButton{
+    background: none; 
+
+}
+.btn{
+    border-radius: 5px;
+    border: none;
+    margin-right: 80px;
+    font-size: 1.3em;
+
+}
